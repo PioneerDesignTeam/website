@@ -1,0 +1,284 @@
+.product-list ul {
+	padding-left: 0;
+}
+/*.category-holder ul li {
+	margin: 0 15px 18px 0!important;
+}*/
+
+.inprogres .product-list {
+	background: url(../images/loader.GIF) center center no-repeat;
+	min-height: 150px;
+}
+
+img.grayscale {
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+ */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+    -webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
+    -webkit-backface-visibility: hidden; /* Fix for transition flickering */
+    -webkit-transition: all 0.4s ease-out;
+		transition: all 0.4s ease-out;
+    opacity: 0.2;
+    
+}
+
+img.grayscale:hover {
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+    -webkit-filter: grayscale(0%);
+    opacity: 1;
+    
+}
+
+/* Changes to the all.css file need to be done */
+.swatches-slider{
+	padding: 0;
+	overflow: visible;
+	margin:0 auto;
+	max-width: 908px;
+}
+.swatches-slider .flex-viewport{
+	overflow: hidden!important;
+}
+.finish-swatches-section .flex-next{
+	right:-30px;
+}
+ .finish-swatches-section .flex-prev{
+ 	left: -30px;
+ }
+.finish-swatches-section .bottom-text p,
+.finish-swatches-section p{
+	font-weight: 300;
+}
+.tab-content-holder .accordion dd{
+	display: none;
+}
+.collection-gallery li .text {
+    padding: 0!important;
+    right: 0;
+    bottom: 0;
+
+}
+.collection-gallery li  .holder {    
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+.collection-gallery li  .holder  .hover-box{
+	vertical-align: middle;
+	display: table-cell;
+}
+.certifications ul li .tooltip{
+	top: 30px;
+}
+#product-slider-carousel .slides > li {
+	margin: 0 22px 0 0;
+}
+#product-slider-carousel .slides > li img {
+	cursor: pointer;
+}
+.replacement_parts {
+	font-weight: 300;
+}
+.product .disclaimer,
+.product .disclaimer strong{
+	font-weight: 900;
+}
+.product .disclaimer a{
+	font-weight: normal;
+}
+#product-slider-carousel-mobile {
+	display: none;
+}
+#product-slider-carousel-mobile .flex-direction-nav a {
+    height: 23px;
+    text-indent: -9999px;
+    width: 23px;
+}
+#product-slider-carousel-mobile li{
+	text-align: center;
+}
+#product-slider-carousel-mobile .flex-direction-nav a.flex-next {
+    background: url("../images/arrow-next02.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    right: 0px;
+}
+#product-slider-carousel-mobile .flex-direction-nav a.flex-prev {
+    background: url("../images/arrow-prev02.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    left: 0px;
+}
+#product-slider-carousel-mobile img{
+	width: 100%;
+	height: auto;
+}
+#product-slider-carousel-mobile .flex-direction-nav {
+    top: 31%;
+}
+#product-slider-carousel-mobile{
+	position: relative;
+}
+#product-slider-carousel-mobile  .flex-direction-nav{
+	display: block;
+}
+#related-products{
+	width: auto!important;
+	max-width: 995px;
+}
+.category-holder ul li .placeholder{
+	width: auto;
+	max-height: 203px;
+	margin: 0 auto 27px;
+}
+.btn-blocks .container .hover-box,
+.btn-blocks .text{
+	  -webkit-transition: all 1s ease-out;
+		transition: all 1s ease-out;
+}
+
+
+#commentform input[type="checkbox"] {
+  display: none;
+}
+
+#commentform input[type="checkbox"] + label {
+  position: relative;
+  cursor: pointer;
+  padding-left: 22px;
+  margin: 0 0 0 8px;
+  line-height: 21px;
+}
+
+#commentform input[type="checkbox"] + label:before {
+  content: '';
+  width: 13px;
+  height: 13px;
+  display: block;
+ 
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 1rem 0 0;
+   background: #fff;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+}
+
+#commentform input[type="checkbox"]:checked + label:after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 9px;
+  height: 9px;
+  background: #81add0;
+  border: 2px solid #fff;
+}
+#title-carousel-slider .flex-direction-nav{
+	display: none!important;
+}
+.delivering_water{
+	min-height: 948px;
+}
+.gm-style-iw{
+	overflow: visible!important;
+}
+#map_sidebar .row-result{
+	border-top:1px solid silver;
+	overflow: hidden;
+}
+#map_sidebar .results_entry{
+	border:none;
+}
+#map_sidebar .row-result.first{
+	border:none;
+}
+.main-slider .slides li{
+	height: 490px;
+}
+.main-slider li .fake{
+	display: none;
+}
+.map{
+	height:0;
+}
+.archive-title {
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 32px;
+    margin: 5px 0 12px;
+}
+.category-holder ul li figure img{
+	max-height: 203px;
+}
+.category-holder ul li figure .btn{
+	margin: -16px  -83px;
+}
+@media screen and (max-width: 760px) {
+	#map_sidebar .results_entry{
+		border-bottom:1px solid silver;
+	}	
+	#map_sidebar .row-result{
+		border:none;
+	}
+}
+
+
+
+
+@media screen and (max-width: 995px) {
+	.breadcrumbs{
+		padding-left: 21px; 
+	}
+	body{
+		overflow-x: hidden; 
+	}
+	.search-box,
+	.top-logos{
+		padding-right: 20px; 
+	}
+	.logo{
+		padding: 0 0 0 20px;
+	}
+}
+@media screen and (max-width: 960px){
+	.collection-gallery li .text {
+	    padding: 35px 0;
+	}	
+	.main-slider .slides li{
+		height: 380px;
+	}
+  .main-slider .flex-control-nav {
+    top: 360px !important;
+  }
+
+}
+@media screen and (max-width: 760px) {
+	.main-slider li .fake{
+		display: block;
+		height:200px;
+	}
+  .main-slider .slides li {
+    height: auto;
+  }
+  .main-slider .text{
+		text-align: center;
+    height: 180px;
+	}
+  .main-slider .text {
+    position: static;
+    width: auto !important;
+    padding: 40px 0;
+    background: #dbd7d5;
+  }
+	.main-slider .flex-control-nav{
+		top: 170px!important;
+	}
+	#product-slider-carousel{
+		display: none;
+	}
+	#product-slider-carousel-mobile{
+		display: block;
+	}
+	.collection-gallery li .text {
+	    padding: 20px 0;
+	}	
+}

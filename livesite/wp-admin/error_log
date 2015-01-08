@@ -1,0 +1,12 @@
+[13-Nov-2014 15:37:55] PHP Notice:  Undefined property: stdClass::$publish in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 648
+[13-Nov-2014 15:37:55] PHP Notice:  Undefined property: stdClass::$draft in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 649
+[13-Nov-2014 15:37:55] PHP Notice:  Undefined property: stdClass::$publish in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 648
+[13-Nov-2014 15:37:55] PHP Notice:  Undefined property: stdClass::$draft in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 649
+[13-Nov-2014 15:38:10] PHP Notice:  Undefined property: stdClass::$publish in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 648
+[13-Nov-2014 15:38:10] PHP Notice:  Undefined property: stdClass::$draft in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 649
+[13-Nov-2014 15:38:10] PHP Notice:  Undefined property: stdClass::$publish in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 648
+[13-Nov-2014 15:38:10] PHP Notice:  Undefined property: stdClass::$draft in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 649
+[13-Nov-2014 15:38:12] PHP Notice:  Undefined property: stdClass::$publish in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 648
+[13-Nov-2014 15:38:12] PHP Notice:  Undefined property: stdClass::$draft in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 649
+[13-Nov-2014 15:38:12] PHP Notice:  Undefined property: stdClass::$publish in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 648
+[13-Nov-2014 15:38:12] PHP Notice:  Undefined property: stdClass::$draft in /home1/pionefe4/public_html/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php on line 649
